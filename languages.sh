@@ -10,14 +10,53 @@ function install_java {
 }
 
 function install_rust {
+    # Ref: https://hoverbear.org/2017/03/03/setting-up-a-rust-devenv/
+
     # To download Rustup and install Rust, run the following in your terminal.
-    curl https://sh.rustup.rs -sSf | sh
+    curl https://sh.rustup.rs -sSf | sh -0
+
+    # To configure your current shell run 
+    source $HOME/.cargo/env
+
+    # install the Rust source and documentation locally for later use when offline or for tools such as the autocompletion 
+    rustup component add rust-src
+    rustup component add rust-docs
+
+    # update toolchain
+    rustup update
+
+    # install the nightly (or beta) version alongside stable
+    rustup toolchain install nightly
+
+    # can change the default toolchain of the system
+    # rustup default stable or rustup default nightly,
+    # rustup override set nightly
+
+    # Valuable Tools
+
+    # rust-clippy - A linter.
+    # rustfmt - A code formatter.
+    # racer - An autocompletion utility.
+    # rls - A language server (for symbol search etc.)
+
+    rustup component add clippy-preview
+    cargo install rustfmt
+    cargo install racer
+
+    # Configuring VS Code for Rust
+    git clone https://github.com/jonathandturner/rls_vscode.git
+    cd rls_vscode
+    npm install
+
+    # Extension: LLDB Debugger
+    pip install six
+
 }
 
 function main {
-    install_rust
-    install_java
     install_python
+    install_java
+    install_rust
 }
 
 main
