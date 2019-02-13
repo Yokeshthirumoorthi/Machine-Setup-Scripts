@@ -42,12 +42,8 @@ function install_rust {
     rustup component add clippy-preview
     cargo install rustfmt
     cargo install racer
-
-    # Configuring VS Code for Rust
-    git clone https://github.com/jonathandturner/rls_vscode.git
-    cd rls_vscode
-    npm install
-
+    cargo install diesel_cli
+    
     # Extension: LLDB Debugger
     pip install six
 

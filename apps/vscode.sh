@@ -5,6 +5,7 @@ function install_extensions {
     code --install-extension james-yu.latex-workshop
     code --install-extension zetta.react-native-vscode-extensionpack
     code --install-extension ms-python.python
+    code --install-extension rust-lang.rust
     code --install-extension pkief.material-icon-theme
     echo "Extenstions for VS Code Installed"
 }
