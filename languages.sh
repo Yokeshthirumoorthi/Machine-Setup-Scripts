@@ -42,6 +42,8 @@ function install_rust {
     rustup component add clippy-preview
     cargo install rustfmt
     cargo install racer
+    
+    sudo apt install libpq-dev libsqlite3-dev
     cargo install diesel_cli
     
     # Extension: LLDB Debugger
