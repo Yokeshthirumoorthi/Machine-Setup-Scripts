@@ -31,3 +31,5 @@ Note : Ruby is already installed in the system. If encountered a situation to up
 Note: Restart required after installing latex
 - [Latex](https://sourabhbajaj.com/mac-setup/LaTeX/)
 - [Gitup](https://gitup.co/)
+<!-- TODO: waiting for mojave updata -->
+- [Stronghold](https://github.com/alichtman/stronghold)
