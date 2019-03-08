@@ -32,7 +32,7 @@ function install_ohmyzsh {
 
 function main {
     install_ohmyzsh
-    install_prezto
+    # install_prezto
 }
 
 main
