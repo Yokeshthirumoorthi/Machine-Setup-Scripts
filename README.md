@@ -24,7 +24,10 @@ Note : Ruby is already installed in the system. If encountered a situation to up
 
 
 - [ZSH](https://sourabhbajaj.com/mac-setup/iTerm/zsh.html)
+- [Fix ZSH user prompt](https://github.com/agnoster/agnoster-zsh-theme/issues/39#issuecomment-307338817)
 - [Plugins for ZSH](https://medium.freecodecamp.org/jazz-up-your-zsh-terminal-in-seven-steps-a-visual-guide-e81a8fd59a38)
 - [tree](https://sourabhbajaj.com/mac-setup/iTerm/tree.html)
 - [Bash Completion](https://sourabhbajaj.com/mac-setup/BashCompletion/)
-<!-- - [Latex](https://sourabhbajaj.com/mac-setup/LaTeX/) -->
+Note: Restart required after installing latex
+- [Latex](https://sourabhbajaj.com/mac-setup/LaTeX/)
+- [Gitup](https://gitup.co/)
