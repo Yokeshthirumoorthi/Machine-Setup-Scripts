@@ -33,3 +33,6 @@ Note: Restart required after installing latex
 - [Gitup](https://gitup.co/)
 <!-- TODO: waiting for mojave updata -->
 - [Stronghold](https://github.com/alichtman/stronghold)
+
+
+- [R-programming](https://ftp.osuosl.org/pub/cran/)
