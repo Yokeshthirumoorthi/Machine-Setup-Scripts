@@ -36,3 +36,7 @@ Note: Restart required after installing latex
 
 
 - [R-programming](https://ftp.osuosl.org/pub/cran/)
+
+# Ubuntu Setup
+
+ - [Prezto-zsh](https://wikimatze.de/better-zsh-with-prezto/)
