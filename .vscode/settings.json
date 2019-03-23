@@ -1,0 +1,7 @@
+{
+    // Controls the font family.
+    "editor.fontFamily": "Consolas",
+
+    // Controls the font size.
+    "editor.fontSize": 14
+}
