@@ -40,3 +40,4 @@ Note: Restart required after installing latex
 # Ubuntu Setup
 
  - [Prezto-zsh](https://wikimatze.de/better-zsh-with-prezto/)
+ - [tmux]{https://linuxize.com/post/getting-started-with-tmux/}
