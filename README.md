@@ -41,3 +41,10 @@ Note: Restart required after installing latex
 
  - [Prezto-zsh](https://wikimatze.de/better-zsh-with-prezto/)
  - [tmux]{https://linuxize.com/post/getting-started-with-tmux/}
+ ### Installing Reactnative dev environment
+ - [Java Installation](https://medium.com/@aashimad1/install-android-studio-in-ubuntu-b8aed675849f)
+ - [nvm, Android Studio, Emulator setup and Reactnative starter app](https://medium.com/@dooboolab/running-react-native-app-in-ubuntu-18-04-7d1db4ac7518)
+    - After installing nvm manually copy the nvm lines in bashrc to zshrc
+    - Accept license using command ```sdkmanager -license``` before installing avd using avdmanager
+    - use ```sudo $ANDROID_HOME/emulator/emulator @[avd-name]``` to start the emulator
+ - [For Hardware KVM problems](https://askubuntu.com/questions/564910/kvm-is-not-installed-on-this-machine-dev-kvm-is-missing)
