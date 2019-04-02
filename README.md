@@ -41,6 +41,7 @@ Note: Restart required after installing latex
 
  - [Prezto-zsh](https://wikimatze.de/better-zsh-with-prezto/)
  - [tmux]{https://linuxize.com/post/getting-started-with-tmux/}
+ - [Docker]{https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04}
  ### Installing Reactnative dev environment
  - [Java Installation](https://medium.com/@aashimad1/install-android-studio-in-ubuntu-b8aed675849f)
  - [nvm, Android Studio, Emulator setup and Reactnative starter app](https://medium.com/@dooboolab/running-react-native-app-in-ubuntu-18-04-7d1db4ac7518)
