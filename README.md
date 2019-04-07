@@ -49,3 +49,4 @@ Note: Restart required after installing latex
     - Accept license using command ```sdkmanager -license``` before installing avd using avdmanager
     - use ```sudo $ANDROID_HOME/emulator/emulator @[avd-name]``` to start the emulator
  - [For Hardware KVM problems](https://askubuntu.com/questions/564910/kvm-is-not-installed-on-this-machine-dev-kvm-is-missing)
+ - [Renamer](https://www.ostechnix.com/how-to-rename-multiple-files-at-once-in-linux/)
