@@ -23,13 +23,15 @@ Note : Ruby is already installed in the system. If encountered a situation to up
 - [Ruby and RVM](https://github.com/nicolashery/mac-dev-setup#ruby-and-rvm)
 
 
-- [ZSH](https://sourabhbajaj.com/mac-setup/iTerm/zsh.html)
-- [Fix ZSH user prompt](https://github.com/agnoster/agnoster-zsh-theme/issues/39#issuecomment-307338817)
+- [ZSH with presto](https://sourabhbajaj.com/mac-setup/iTerm/zsh.html)
+   - [Enable default zsh and add prezto modules](https://realjenius.com/2017/08/28/prezto/)
+   - [Fix ZSH user prompt](https://github.com/agnoster/agnoster-zsh-theme/issues/39#issuecomment-307338817)
+  - [Install font for agnoster](https://medium.freecodecamp.org/jazz-up-your-zsh-terminal-in-seven-steps-a-visual-guide-e81a8fd59a38)
 - [Plugins for ZSH](https://medium.freecodecamp.org/jazz-up-your-zsh-terminal-in-seven-steps-a-visual-guide-e81a8fd59a38)
 - [tree](https://sourabhbajaj.com/mac-setup/iTerm/tree.html)
 - [Bash Completion](https://sourabhbajaj.com/mac-setup/BashCompletion/)
 Note: Restart required after installing latex
-- [Latex](https://sourabhbajaj.com/mac-setup/LaTeX/)
+- [Latex - install Mactex](https://sourabhbajaj.com/mac-setup/LaTeX/)
 - [Gitup](https://gitup.co/)
 <!-- TODO: waiting for mojave updata -->
 - [Stronghold](https://github.com/alichtman/stronghold)
