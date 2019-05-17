@@ -16,6 +16,7 @@ Steps to install the following are available from [nicolashery/mac-dev-setup](ht
 - [IPython](https://github.com/nicolashery/mac-dev-setup#ipython)
 - [Numpy and Scipy](https://github.com/nicolashery/mac-dev-setup#numpy-and-scipy)
 Note: after installing nvm add ```source ~/.nvm/nvm.sh``` to your ~/.zshrc file.
+
 - [Node.js](https://github.com/nicolashery/mac-dev-setup#nodejs)
 - [Projects folder](https://github.com/nicolashery/mac-dev-setup#projects-folder)
 
@@ -35,9 +36,14 @@ Note: Restart required after installing latex
 - [Gitup](https://gitup.co/)
 <!-- TODO: waiting for mojave updata -->
 - [Stronghold](https://github.com/alichtman/stronghold)
+- [Tor Browser](https://www.torproject.org/download/)
 
 
 - [R-programming](https://ftp.osuosl.org/pub/cran/)
+
+# Vim CheatSheets
+- https://www.barbarianmeetscoding.com/blog/2019/02/08/boost-your-coding-fu-with-vscode-and-vim
+- https://rumorscity.com/2014/08/16/5-best-vim-cheat-sheet/
 
 # Ubuntu Setup
 
@@ -52,3 +58,4 @@ Note: Restart required after installing latex
     - use ```sudo $ANDROID_HOME/emulator/emulator @[avd-name]``` to start the emulator
  - [For Hardware KVM problems](https://askubuntu.com/questions/564910/kvm-is-not-installed-on-this-machine-dev-kvm-is-missing)
  - [Renamer](https://www.ostechnix.com/how-to-rename-multiple-files-at-once-in-linux/)
+7TCK-VPDC-2OWK-6EU9-BJLG-U5FB
