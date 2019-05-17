@@ -37,13 +37,17 @@ Note: Restart required after installing latex
 <!-- TODO: waiting for mojave updata -->
 - [Stronghold](https://github.com/alichtman/stronghold)
 - [Tor Browser](https://www.torproject.org/download/)
-
+- {Safaribooks Downloader}(https://github.com/nicohaenggi/SafariBooks-Downloader)
 
 - [R-programming](https://ftp.osuosl.org/pub/cran/)
 
 # Vim CheatSheets
 - https://www.barbarianmeetscoding.com/blog/2019/02/08/boost-your-coding-fu-with-vscode-and-vim
 - https://rumorscity.com/2014/08/16/5-best-vim-cheat-sheet/
+
+# Other Stuffs
+- [Five tips for iterm](https://medium.com/@jessesrsmith/five-tips-for-iterm-91db83cf4d4e)
+- [Text editing rocket](https://medium.com/@caulfieldOwen/turn-your-keyboard-into-a-text-editing-rocket-1514d8474d2d)
 
 # Ubuntu Setup
 
