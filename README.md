@@ -48,6 +48,7 @@ Note: Restart required after installing latex
 # Other Stuffs
 - [Five tips for iterm](https://medium.com/@jessesrsmith/five-tips-for-iterm-91db83cf4d4e)
 - [Text editing rocket](https://medium.com/@caulfieldOwen/turn-your-keyboard-into-a-text-editing-rocket-1514d8474d2d)
+- [My favourite command line utilities](https://hackernoon.com/macbook-my-command-line-utilities-f8a121c3b019)
 
 # Ubuntu Setup
 
