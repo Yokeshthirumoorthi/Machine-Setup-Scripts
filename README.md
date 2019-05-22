@@ -49,6 +49,11 @@ Note: Restart required after installing latex
 - [Five tips for iterm](https://medium.com/@jessesrsmith/five-tips-for-iterm-91db83cf4d4e)
 - [Text editing rocket](https://medium.com/@caulfieldOwen/turn-your-keyboard-into-a-text-editing-rocket-1514d8474d2d)
 - [My favourite command line utilities](https://hackernoon.com/macbook-my-command-line-utilities-f8a121c3b019)
+- [Ultimate Vimrc](http://marcgg.com/blog/2016/03/01/vimrc-example/)
+  1. [Vim configuration from scratch](http://marcgg.com/blog/2016/03/01/vimrc-example/)
+  2. [A good vimrc](https://dougblack.io/words/a-good-vimrc.html)
+  3. [vimrc](https://github.com/amix/vimrc)
+  4. [Learn vimscript the hard way](http://learnvimscriptthehardway.stevelosh.com/chapters/07.html)
 
 # Ubuntu Setup
 
