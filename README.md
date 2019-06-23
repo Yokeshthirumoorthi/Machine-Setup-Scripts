@@ -57,6 +57,7 @@ Note: Restart required after installing latex
 
 # Ubuntu Setup
 
+ - [zsh](https://linuxhint.com/install_zsh_shell_ubuntu_1804/)
  - [Prezto-zsh](https://wikimatze.de/better-zsh-with-prezto/)
  - [tmux]{https://linuxize.com/post/getting-started-with-tmux/}
  - [Docker]{https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04}
