@@ -1,4 +1,4 @@
-
+#!/bin/bash
 function install_prezto {
     #prezto is zsh theme
 

@@ -1,3 +1,4 @@
+#!/bin/bash
 # credits https://github.com/snwh/ubuntu-post-install/blob/master/functions/system_cleanup
 
 function purge_unused {

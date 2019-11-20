@@ -1,3 +1,4 @@
+#!/bin/bash
 function install_python {
     sudo apt -y upgrade
     sudo apt install -y python3-pip

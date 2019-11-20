@@ -1,3 +1,4 @@
+#!/bin/bash
 function install_postgres {
     sudo apt update
     sudo apt install postgresql postgresql-contrib pgadmin3

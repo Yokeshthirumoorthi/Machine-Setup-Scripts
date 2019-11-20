@@ -1,4 +1,4 @@
-
+#!/bin/bash
 
 function install_extensions {
     echo "Installing Extenstions for VS Code..."

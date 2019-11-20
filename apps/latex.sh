@@ -1,4 +1,4 @@
-
+#!/bin/bash
 function install_latex {
     echo "Installing Latex..."
     # To install Tex Live LaTeX distribution on ubuntu
