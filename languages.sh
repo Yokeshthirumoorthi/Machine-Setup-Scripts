@@ -61,11 +61,14 @@ function install_go {
     export GOROOT=/usr/local/go
     export PATH=$PATH:$GOROOT/bin:$GOPATH/bin
 
+    echo 'export GOPATH=/workspace' >> ~/.zshrc
+    echo 'export GOROOT=/usr/local/go' >> ~/.zshrc
+    echo 'export PATH=$PATH:$GOROOT/bin:$GOPATH/bin' >> ~/.zshrc
+
     sudo mkdir ${GOPATH}
     sudo chown ${USER} -R ${GOPATH}
 
-    sudo apt update
-    sudo apt install --no-install-recommends -y \
+    sudo apt-get install --no-install-recommends -y \
         software-properties-common ca-certificates build-essential
 
     wget "$GO_DOWNLOAD_URL" -O golang.$VERSION.tar.gz

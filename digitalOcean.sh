@@ -1,7 +1,4 @@
-./update.sh
-./ohmyzsh.sh
-./indicator.sh
-./languages.sh
-./consolas.sh
-./apps/vscode.sh
-./git.sh
+#!/bin/bash
+git clone https://github.com/Yokeshthirumoorthi/Machine-Setup-Scripts.git
+cd Machine-Setup-Scripts
+chmod +x ./machine-setup.sh
