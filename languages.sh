@@ -1,8 +1,8 @@
 #!/bin/bash
 function install_python {
-    sudo apt -y upgrade
-    sudo apt install -y python3-pip
-    sudo apt install python3-dev
+    # sudo apt -y upgrade
+    sudo apt-get install -y python3-pip
+    sudo apt-get install python3-dev
 }
 
 function install_java {
