@@ -57,11 +57,11 @@ function install_go {
 
     export GO_DOWNLOAD_URL=https://storage.googleapis.com/golang/go$VERSION.linux-amd64.tar.gz
 
-    export GOPATH=/workspace
+    export GOPATH=/go
     export GOROOT=/usr/local/go
     export PATH=$PATH:$GOROOT/bin:$GOPATH/bin
 
-    echo 'export GOPATH=/workspace' >> ~/.zshrc
+    echo 'export GOPATH=/go' >> ~/.zshrc
     echo 'export GOROOT=/usr/local/go' >> ~/.zshrc
     echo 'export PATH=$PATH:$GOROOT/bin:$GOPATH/bin' >> ~/.zshrc
 
