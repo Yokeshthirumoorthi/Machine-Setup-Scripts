@@ -88,5 +88,6 @@ cd /go/src/github.com/photoprism/
 git clone https://github.com/photoprism/photoprism.git
 cd photoprism
 make all
+make install
 make test
 ./photoprism start
