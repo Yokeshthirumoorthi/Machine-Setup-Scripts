@@ -85,8 +85,9 @@ echo "alias go=richgo" > /root/.bash_aliases
 mkdir -p /go/src/github.com/photoprism/
 cd /go/src/github.com/photoprism/
 
-git clone https://github.com/photoprism/photoprism.git
+git clone --single-branch --branch develop https://github.com/photoprism/photoprism.git
 cd photoprism
+git remote rm origin
 make all
 make install
 make test
