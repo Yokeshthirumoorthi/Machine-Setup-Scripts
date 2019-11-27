@@ -2,11 +2,11 @@
 git clone https://github.com/Yokeshthirumoorthi/Machine-Setup-Scripts.git
 cd Machine-Setup-Scripts
 
-chmod +x ../update.sh
-chmod +x ../ohmyzsh.sh
-chmod +x ../languages.sh
-chmod +x ../git.sh
-chmod +x ../photoprism.sh
+chmod +x ./update.sh
+chmod +x ./ohmyzsh.sh
+chmod +x ./languages.sh
+chmod +x ./git.sh
+chmod +x ./photoprism.sh
 
 yes | ./update.sh
 yes | ./ohmyzsh.sh
