@@ -41,7 +41,7 @@ function install_ohmyzsh {
     git clone https://github.com/zsh-users/zsh-autosuggestions $HOME/.oh-my-zsh/custom/plugins/zsh-autosuggestions
     git clone  https://github.com/zsh-users/zsh-history-substring-search $HOME/.oh-my-zsh/custom/plugins/zsh-history-substring-search
 
-    wget -O $HOME/.zshrc https://gist.github.com/Yokeshthirumoorthi/3686d075a3da7b498343b91345b62c12/raw
+    wget -O $HOME/.zshrc https://gist.githubusercontent.com/Yokeshthirumoorthi/3686d075a3da7b498343b91345b62c12/raw/25b386a9cdfd60248dcd7696f797c42997a2c71f/zshrc
 
     echo "Restart the system"
     echo "OhMyZSH Installed"
